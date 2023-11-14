@@ -3,7 +3,7 @@
 Candidate C# Test #1:
 - Clone repository to your local Git/IDE
 - If you get "How are you planning to use this Fork?", enter "For my own purposes".  
-- Open the 'Sprint1Refactor' branch and create a new branch called 'Refactor-\<Your Name\>'
+- Switch to the 'Sprint1Refactor' branch and create a new branch called 'Refactor-\<Your Name\>' from it.  
 - Open solution IDE you are most familiar with (Visual Studio, Jetbrains Rider, or VSCODE etc.).
 - After nuget packages are restored, build the solution. Build output should show 3 unit test passing.  
   - `Test Count: 3, Passed: 3, Failed: 0, Warnings: 0, Inconclusive: 0, Skipped: 0`  
