@@ -9,7 +9,7 @@ Candidate C# Test #1:
   - `Test Count: 3, Passed: 3, Failed: 0, Warnings: 0, Inconclusive: 0, Skipped: 0`  
 - Refactor the 'Refactorings\TicTacToe.cs' application/file - (no need to touch any other applications)
 - Once refactored, compiled with no errors, and tests are passing, commit and push your branch changes back to the repository
-- Open a pull request for your changes to be merged into the 'develop' branch in the repro
+- Open a pull request for your changes to be merged into the 'Sprint1Refactor' branch in the repro
 
 Notes to Candidate:
 - You can refactor this file anyway you would like. The only requirement is that the associated unit test passes all checks.
