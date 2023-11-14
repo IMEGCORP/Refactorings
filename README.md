@@ -2,6 +2,7 @@
 
 Candidate C# Test #1:
 - Clone repository to your local Git/IDE
+- If you get "How are you planning to use this Fork?", enter "For my own purposes".  
 - Open the 'develop' branch and create a new branch called 'Sprint1Refactor'
 - Refactor the 'Refactorings\TicTacToe.cs' application/file - (no need to touch any other applications)
 - Once refactored, compiled with no errors, and tests are passing, commit and push your branch changes back to the repository
