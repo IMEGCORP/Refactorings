@@ -3,7 +3,10 @@
 Candidate C# Test #1:
 - Clone repository to your local Git/IDE
 - If you get "How are you planning to use this Fork?", enter "For my own purposes".  
-- Open the 'develop' branch and create a new branch called 'Sprint1Refactor'
+- Open the 'Sprint1Refactor' branch and create a new branch called 'Refactor-\<Your Name\>'
+- Open solution IDE you are most familiar with (Visual Studio, Jetbrains Rider, or VSCODE etc.).
+- After nuget packages are restored, build the solution. Build output should show 3 unit test passing.  
+  - `Test Count: 3, Passed: 3, Failed: 0, Warnings: 0, Inconclusive: 0, Skipped: 0`  
 - Refactor the 'Refactorings\TicTacToe.cs' application/file - (no need to touch any other applications)
 - Once refactored, compiled with no errors, and tests are passing, commit and push your branch changes back to the repository
 - Open a pull request for your changes to be merged into the 'develop' branch in the repro
