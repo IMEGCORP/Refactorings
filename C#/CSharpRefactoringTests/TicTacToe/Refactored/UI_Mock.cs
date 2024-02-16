@@ -1,5 +1,4 @@
 using System.Collections.Generic;
-using CSharpRefactorings.TicTacToe.Refactored;
 
 namespace CSharpRefactoringTests.TicTacToe.Refactored
 {

@@ -1,6 +1,6 @@
 ﻿using System.Linq;
-using CSharpRefactorings.TicTacToe.Refactored;
 using NUnit.Framework;
+using CSharpRefactorings.TicTacToe.Original;
 
 namespace CSharpRefactoringTests.TicTacToe.Refactored
 {

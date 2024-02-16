@@ -3,7 +3,7 @@ using System.Threading;
 
 namespace CSharpRefactorings.TicTacToe.Original
 {
-    class Program
+    public class Program
     {
         private char winChar;
 
