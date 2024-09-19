@@ -1,4 +1,4 @@
-# C# refactoring and unit test exercises
+# C# & Python refactoring and unit test exercises
 
 Candidate C# Test #1:
 - Clone repository to your local Git/IDE.
