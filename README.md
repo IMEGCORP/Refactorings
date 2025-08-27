@@ -5,10 +5,10 @@ Candidate C# Test #1:
     - If you get "How are you planning to use this Fork?", enter "For my own purposes".  
 - Switch to the 'ReadySetGo_TicTacToe' git branch and create a new git branch called 'Refactor-\<Your Name\>' from it.  
 - Open solution IDE you are most familiar with (Visual Studio, Jetbrains Rider, or VSCODE etc.).
+- Build and run application to understand how it works.
 - Refactor the 'Refactorings\TicTacToe.cs' file.
     - No need to touch any other existing files. Adding/Modifying new files is fine if needed.
-- Once refactored, compiled with no errors, commit and push your branch changes back to the repository.
-- Open a pull request for your changes to be merged into the 'ReadySetGo_TicTacToe' branch in the repo.
+- Once refactored and compiled with no errors, we will discuss your changes and your thought process.
 
 Notes to Candidate:
 - You can refactor this file anyway you would like. The only requirement is that the code runs and works as expected.
